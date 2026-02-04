@@ -1,0 +1,121 @@
+doctor_id,name,dept_id,branch_id,specialization
+1,Brianna Rivera,D5,B3,Academic librarian
+2,William Hicks,D1,B1,Town planner
+3,Taylor Mueller,D3,B1,Associate Professor
+4,Amanda Carson,D6,B2,Teaching laboratory technician
+5,Valerie Smith,D3,B2,Financial planner
+6,Julie Hanson,D1,B1,Race relations officer
+7,Carolyn Archer,D4,B3,Systems analyst
+8,Phyllis Maxwell,D1,B1,Exercise physiologist
+9,Kyle Gutierrez,D4,B2,Illustrator
+10,Rachel Gonzalez,D1,B1,Customer service manager
+11,Jessica Henderson,D1,B2,Equality and diversity officer
+12,Jennifer Dawson,D2,B2,"Nurse, learning disability"
+13,Louis Strong,D1,B2,Quality manager
+14,Micheal George,D6,B1,"Engineer, land"
+15,Kristin Pena,D1,B2,"Engineer, automotive"
+16,Janice Petty,D5,B1,Volunteer coordinator
+17,Stephen Sherman,D2,B1,Operational researcher
+18,John Mitchell,D4,B2,Operations geologist
+19,Ashley Burke,D2,B2,Investment analyst
+20,Stephen Stanley,D3,B2,Ophthalmologist
+21,Rose Garrett,D5,B1,Sport and exercise psychologist
+22,Tamara Wright,D1,B2,"Embryologist, clinical"
+23,Sharon Davis,D2,B3,"Therapist, horticultural"
+24,Laura Prince,D3,B2,Passenger transport manager
+25,Blake Anderson,D4,B1,Technical brewer
+26,Brianna Williams,D5,B1,Exhibition designer
+27,Rebecca Anderson,D5,B1,Writer
+28,James Martinez,D5,B1,Textile designer
+29,Dale Reynolds,D6,B2,"Designer, jewellery"
+30,Brittany Fox,D3,B2,"Teacher, special educational needs"
+31,Christopher Benson DDS,D1,B1,Games developer
+32,Brian Stewart,D3,B3,Regulatory affairs officer
+33,Christopher White,D6,B3,Chartered certified accountant
+34,Janet Blair,D5,B2,Paramedic
+35,Anthony Bryant,D1,B3,Waste management officer
+36,Donna Rodriguez,D5,B1,Chemical engineer
+37,Joshua Johnson,D6,B3,Air broker
+38,Ruben Owens,D2,B1,Artist
+39,Karen Douglas,D4,B3,Product designer
+40,Jeremy Lozano,D2,B2,Insurance account manager
+41,Jasmine Hodge,D2,B3,Education administrator
+42,Makayla George,D1,B1,Materials engineer
+43,Dalton Richards,D5,B1,Diagnostic radiographer
+44,Lonnie Hogan,D4,B1,Race relations officer
+45,Kurt Howard,D3,B3,Counsellor
+46,Tristan Lee,D1,B2,Horticultural therapist
+47,Brian Martin,D5,B2,"Psychologist, sport and exercise"
+48,Ashley Rodriguez,D1,B1,Ophthalmologist
+49,Michael Jackson,D4,B3,Conference centre manager
+50,Shelley Chavez,D4,B2,Environmental manager
+51,Michael Flores,D4,B3,Barrister's clerk
+52,David Freeman,D3,B1,Quantity surveyor
+53,Ernest Martinez,D4,B1,TEFL teacher
+54,Sara Becker,D5,B3,Dentist
+55,Antonio Keller,D3,B2,"Engineer, drilling"
+56,Derek Harper,D2,B3,Advice worker
+57,Helen Perez,D4,B2,Fast food restaurant manager
+58,Arthur Hansen,D5,B3,Retail buyer
+59,Miguel Martin,D6,B3,Charity fundraiser
+60,Jacob Bryant,D3,B1,Academic librarian
+61,Linda Jimenez,D4,B3,Higher education lecturer
+62,Monica Thomas,D1,B3,Health promotion specialist
+63,Robert Proctor,D5,B2,Clothing/textile technologist
+64,Margaret Watson,D3,B1,Data processing manager
+65,Brian Adkins,D4,B3,Fine artist
+66,Cory Carney,D4,B2,Tourist information centre manager
+67,Glenda Parker,D4,B1,Legal executive
+68,Steven Sanchez,D2,B1,Tour manager
+69,Robert Mullins,D5,B1,"Lighting technician, broadcasting/film/video"
+70,Mary Thornton,D6,B3,Hospital doctor
+71,Matthew Gray,D1,B3,"Research officer, trade union"
+72,Alex Garcia,D2,B3,Fashion designer
+73,Daniel Jackson,D1,B1,Conference centre manager
+74,Leslie Underwood,D2,B1,Operational investment banker
+75,Juan Taylor,D3,B2,"Psychologist, forensic"
+76,Suzanne Schwartz,D2,B3,Fitness centre manager
+77,Justin Reynolds,D1,B2,Physiological scientist
+78,Melissa White,D3,B3,Solicitor
+79,Krystal Sweeney,D5,B1,Air cabin crew
+80,Michelle Williamson,D5,B1,Social worker
+81,Craig Salazar,D2,B1,Commissioning editor
+82,Heather Briggs,D3,B1,Pharmacologist
+83,Lisa Hernandez,D2,B1,Exercise physiologist
+84,Jonathan Simpson,D2,B1,Museum education officer
+85,Shawn Miller,D2,B1,Local government officer
+86,Thomas Moreno,D3,B1,Herbalist
+87,Selena Wilson,D1,B1,Teaching laboratory technician
+88,Joshua Snow,D3,B3,Visual merchandiser
+89,Katherine Spencer,D3,B2,Media planner
+90,Jason Carr,D1,B1,Arts development officer
+91,Mary Crawford,D5,B3,Town planner
+92,Brian Rodriguez,D2,B2,Financial risk analyst
+93,Brandon Carlson,D3,B2,"Engineer, control and instrumentation"
+94,Luke Zimmerman,D6,B3,Chief Operating Officer
+95,Evan Orr,D1,B1,Diplomatic Services operational officer
+96,Rachel Thompson,D4,B3,Product manager
+97,John Crawford,D5,B3,Public relations officer
+98,Julia White,D5,B2,"Scientist, physiological"
+99,Jennifer Cruz,D6,B1,"Engineer, electrical"
+100,Timothy Thompson,D5,B1,"Accountant, chartered management"
+101,Jaime Baker,D2,B1,Immigration officer
+102,John Rodriguez,D2,B2,Immunologist
+103,Sean Macdonald,D2,B2,Financial manager
+104,John Knight,D2,B3,Advertising account executive
+105,Emily Jones,D4,B1,Marketing executive
+106,Brianna Brown,D1,B3,Chief Financial Officer
+107,Casey Miller,D1,B2,Amenity horticulturist
+108,Christine Gibbs,D5,B3,Environmental manager
+109,Colleen Ruiz MD,D6,B3,Insurance risk surveyor
+110,Anna Stone,D6,B1,"Education officer, environmental"
+111,Jordan Mckenzie,D1,B1,Music therapist
+112,Jerry Gibson,D3,B2,"Engineer, energy"
+113,Barry Rodriguez,D1,B1,Chemical engineer
+114,Pamela Lopez,D5,B1,Chemical engineer
+115,Brian Raymond,D4,B2,"Civil engineer, consulting"
+116,Tanya Travis,D5,B2,Ophthalmologist
+117,Briana Stout,D3,B3,Retail banker
+118,Maria Butler,D5,B3,"Nurse, learning disability"
+119,Michelle Gregory,D2,B1,"Producer, radio"
+120,Jessica Bridges,D1,B1,"Psychologist, prison and probation services"
